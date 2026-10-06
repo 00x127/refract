@@ -52,7 +52,7 @@ Fields with a default value never error on their own, so Refract also names a sm
 ## Install
 
 ```
-git clone https://github.com/0x127/refract
+git clone https://github.com/00x127/refract
 cd refract
 pip install .
 ```
